@@ -2,7 +2,7 @@
 
 ## Description
 12,352 Images Data Of Moving Things,this data set is used for object handling detection. It contains multiple scenes. The collection angle is a bird's eye view. All pedestrians appearing in the picture are marked. This data set can be used to identify people carrying objects in monitoring scenes such as parks, warehouses, and streets.
-For more details, please refer to the link: https://www.nexdata.ai/dataset/1428?source=Github
+For more details, please refer to the link:https://www.nexdata.ai/datasets/computervision/1428?source=Github
 
 
 ## Data size
